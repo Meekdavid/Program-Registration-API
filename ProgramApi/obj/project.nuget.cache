@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "C0siajveTsfTSNzx3R3D08o7wWzeraG1Ff4rBpaTHX433jTd+cfuR99SN5KAu8/klAkOFlTLDJ6S0tla/uNT7A==",
+  "dgSpecHash": "xx0eMzz9yssNLpx6n14eVD7jYfEHdrI5mSGPNZG69peeH6rQ9x1Fmz9ycm+rLrC3msCk9QMTr0G5zSvaThpV/A==",
   "success": true,
   "projectFilePath": "C:\\Users\\David Mboko\\Desktop\\Capital Placement Latest\\2024 Capital Placement\\Capital Placement\\ProgramApi\\ProgramApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\David Mboko\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
-    "C:\\Users\\David Mboko\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\David Mboko\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",
     "C:\\Users\\David Mboko\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\David Mboko\\.nuget\\packages\\fakeiteasy\\8.2.0\\fakeiteasy.8.2.0.nupkg.sha512",
@@ -14,6 +13,9 @@
     "C:\\Users\\David Mboko\\.nuget\\packages\\microsoft.azure.cosmos\\3.39.1\\microsoft.azure.cosmos.3.39.1.nupkg.sha512",
     "C:\\Users\\David Mboko\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
     "C:\\Users\\David Mboko\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
+    "C:\\Users\\David Mboko\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.15\\microsoft.entityframeworkcore.7.0.15.nupkg.sha512",
+    "C:\\Users\\David Mboko\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.15\\microsoft.entityframeworkcore.abstractions.7.0.15.nupkg.sha512",
+    "C:\\Users\\David Mboko\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.15\\microsoft.entityframeworkcore.analyzers.7.0.15.nupkg.sha512",
     "C:\\Users\\David Mboko\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\David Mboko\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\David Mboko\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
@@ -67,16 +69,5 @@
     "C:\\Users\\David Mboko\\.nuget\\packages\\xunit.extensibility.execution\\2.8.0\\xunit.extensibility.execution.2.8.0.nupkg.sha512",
     "C:\\Users\\David Mboko\\.nuget\\packages\\xunit.runner.console\\2.8.0\\xunit.runner.console.2.8.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 13.0.1 was resolved.",
-      "libraryId": "AutoMapper",
-      "targetGraphs": [
-        "net7.0"
-      ]
-    }
-  ]
+  "logs": []
 }

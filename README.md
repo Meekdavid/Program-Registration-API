@@ -1,5 +1,3 @@
-Certainly! Here's the entire content formatted into a single block for easy copying into your `README.md` file:
-
 ```markdown
 # Program Registration API
 

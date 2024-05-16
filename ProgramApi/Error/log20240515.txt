@@ -1,0 +1,156 @@
+2024-05-15 04:06:44.638 +01:00 [WRN] Overriding address(es) 'https://localhost:7015, http://localhost:5192'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2024-05-15 04:06:44.820 +01:00 [INF] Now listening on: http://localhost:5000
+2024-05-15 04:06:44.856 +01:00 [INF] Now listening on: https://localhost:5001
+2024-05-15 04:06:44.868 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-15 04:06:44.874 +01:00 [INF] Hosting environment: Development
+2024-05-15 04:06:44.881 +01:00 [INF] Content root path: C:\Users\David Mboko\Desktop\Capital Placement Latest\2024 Capital Placement\Capital Placement\ProgramApi
+2024-05-15 04:10:43.590 +01:00 [WRN] Overriding address(es) 'https://localhost:7015, http://localhost:5192'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2024-05-15 04:10:43.716 +01:00 [INF] Now listening on: http://localhost:5192
+2024-05-15 04:10:43.732 +01:00 [INF] Now listening on: https://localhost:7015
+2024-05-15 04:10:43.766 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-15 04:10:43.779 +01:00 [INF] Hosting environment: Development
+2024-05-15 04:10:43.793 +01:00 [INF] Content root path: C:\Users\David Mboko\Desktop\Capital Placement Latest\2024 Capital Placement\Capital Placement\ProgramApi
+2024-05-15 04:10:44.993 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/swagger - -
+2024-05-15 04:10:45.229 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/swagger - - - 301 0 - 245.4987ms
+2024-05-15 04:10:45.249 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/swagger/index.html - -
+2024-05-15 04:10:46.091 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/swagger/index.html - - - 200 - text/html;charset=utf-8 842.2874ms
+2024-05-15 04:10:46.141 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/swagger/swagger-ui.css - -
+2024-05-15 04:10:46.142 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/swagger/swagger-ui-bundle.js - -
+2024-05-15 04:10:46.143 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/_framework/aspnetcore-browser-refresh.js - -
+2024-05-15 04:10:46.143 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/swagger/swagger-ui-standalone-preset.js - -
+2024-05-15 04:10:46.171 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 27.8489ms
+2024-05-15 04:10:46.339 +01:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-05-15 04:10:46.339 +01:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-05-15 04:10:46.352 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/swagger/swagger-ui.css - - - 200 143943 text/css 211.2454ms
+2024-05-15 04:10:46.358 +01:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-05-15 04:10:46.363 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/swagger/swagger-ui-standalone-preset.js - - - 200 339486 text/javascript 219.8731ms
+2024-05-15 04:10:46.382 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/_vs/browserLink - -
+2024-05-15 04:10:46.399 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/swagger/swagger-ui-bundle.js - - - 200 1096145 text/javascript 256.9188ms
+2024-05-15 04:10:46.981 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 598.2104ms
+2024-05-15 04:10:50.453 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/swagger/v1/swagger.json - -
+2024-05-15 04:10:50.521 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/swagger/favicon-32x32.png - -
+2024-05-15 04:10:50.536 +01:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-05-15 04:10:50.584 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/swagger/favicon-32x32.png - - - 200 628 image/png 62.2677ms
+2024-05-15 04:10:50.780 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 327.3176ms
+2024-05-15 05:10:34.392 +01:00 [WRN] Overriding address(es) 'https://localhost:7015, http://localhost:5192'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2024-05-15 05:10:34.490 +01:00 [INF] Now listening on: http://localhost:5192
+2024-05-15 05:10:34.495 +01:00 [INF] Now listening on: https://localhost:7015
+2024-05-15 05:10:34.499 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-15 05:10:34.502 +01:00 [INF] Hosting environment: Development
+2024-05-15 05:10:34.506 +01:00 [INF] Content root path: C:\Users\David Mboko\Desktop\Capital Placement Latest\2024 Capital Placement\Capital Placement\ProgramApi
+2024-05-15 05:10:35.388 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/swagger/index.html - -
+2024-05-15 05:10:35.836 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/swagger/index.html - - - 200 - text/html;charset=utf-8 452.3534ms
+2024-05-15 05:10:35.900 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/_framework/aspnetcore-browser-refresh.js - -
+2024-05-15 05:10:35.908 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/_vs/browserLink - -
+2024-05-15 05:10:35.966 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 65.7496ms
+2024-05-15 05:10:36.052 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 144.0040ms
+2024-05-15 05:10:36.407 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/swagger/v1/swagger.json - -
+2024-05-15 05:10:36.720 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 314.3673ms
+2024-05-15 05:10:56.516 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/api/programs - -
+2024-05-15 05:10:56.530 +01:00 [INF] Executing endpoint 'ProgramApi.Controllers.ProgramController.GetPrograms (ProgramApi)'
+2024-05-15 05:10:56.588 +01:00 [INF] Route matched with {action = "GetPrograms", controller = "Program"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPrograms() on controller ProgramApi.Controllers.ProgramController (ProgramApi).
+2024-05-15 05:10:56.779 +01:00 [INF] Executed action ProgramApi.Controllers.ProgramController.GetPrograms (ProgramApi) in 182.9693ms
+2024-05-15 05:10:56.793 +01:00 [INF] Executed endpoint 'ProgramApi.Controllers.ProgramController.GetPrograms (ProgramApi)'
+2024-05-15 05:10:56.846 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Microsoft.Extensions.Logging.ILogger' while attempting to activate 'ProgramApi.Controllers.ProgramController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.ThrowHelperUnableToResolveService(Type type, Type requiredBy)
+   at lambda_method33(Closure, IServiceProvider, Object[])
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass6_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2024-05-15 05:10:56.856 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/api/programs - - - 500 - text/plain;+charset=utf-8 340.2878ms
+2024-05-15 05:16:21.673 +01:00 [WRN] Overriding address(es) 'https://localhost:7015, http://localhost:5192'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2024-05-15 05:16:21.804 +01:00 [INF] Now listening on: http://localhost:5192
+2024-05-15 05:16:21.806 +01:00 [INF] Now listening on: https://localhost:7015
+2024-05-15 05:16:21.810 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-15 05:16:21.812 +01:00 [INF] Hosting environment: Development
+2024-05-15 05:16:21.815 +01:00 [INF] Content root path: C:\Users\David Mboko\Desktop\Capital Placement Latest\2024 Capital Placement\Capital Placement\ProgramApi
+2024-05-15 05:16:22.377 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/swagger/index.html - -
+2024-05-15 05:16:22.815 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/swagger/index.html - - - 200 - text/html;charset=utf-8 440.8084ms
+2024-05-15 05:16:22.848 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/_framework/aspnetcore-browser-refresh.js - -
+2024-05-15 05:16:22.848 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/_vs/browserLink - -
+2024-05-15 05:16:22.867 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 18.9402ms
+2024-05-15 05:16:23.040 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 190.9728ms
+2024-05-15 05:16:25.518 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/swagger/v1/swagger.json - -
+2024-05-15 05:16:25.837 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 319.4208ms
+2024-05-15 05:16:35.451 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/api/programs - -
+2024-05-15 05:16:35.475 +01:00 [INF] Executing endpoint 'ProgramApi.Controllers.ProgramController.GetPrograms (ProgramApi)'
+2024-05-15 05:16:35.520 +01:00 [INF] Route matched with {action = "GetPrograms", controller = "Program"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPrograms() on controller ProgramApi.Controllers.ProgramController (ProgramApi).
+2024-05-15 05:16:36.940 +01:00 [ERR] An error occured when retreiving programs from the DB
+2024-05-15 05:16:36.959 +01:00 [INF] Executing OkObjectResult, writing value of type 'null'.
+2024-05-15 05:16:36.967 +01:00 [INF] Executed action ProgramApi.Controllers.ProgramController.GetPrograms (ProgramApi) in 1437.7985ms
+2024-05-15 05:16:36.971 +01:00 [INF] Executed endpoint 'ProgramApi.Controllers.ProgramController.GetPrograms (ProgramApi)'
+2024-05-15 05:16:36.973 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/api/programs - - - 204 - - 1521.7122ms
+2024-05-15 05:17:41.011 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/api/programs - -
+2024-05-15 05:17:41.029 +01:00 [INF] Executing endpoint 'ProgramApi.Controllers.ProgramController.GetPrograms (ProgramApi)'
+2024-05-15 05:17:41.030 +01:00 [INF] Route matched with {action = "GetPrograms", controller = "Program"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPrograms() on controller ProgramApi.Controllers.ProgramController (ProgramApi).
+2024-05-15 05:19:41.636 +01:00 [ERR] An error occured when retreiving programs from the DB
+2024-05-15 05:21:42.973 +01:00 [WRN] Overriding address(es) 'https://localhost:7015, http://localhost:5192'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2024-05-15 05:21:43.075 +01:00 [INF] Now listening on: http://localhost:5192
+2024-05-15 05:21:43.084 +01:00 [INF] Now listening on: https://localhost:7015
+2024-05-15 05:21:43.089 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-15 05:21:43.092 +01:00 [INF] Hosting environment: Development
+2024-05-15 05:21:43.095 +01:00 [INF] Content root path: C:\Users\David Mboko\Desktop\Capital Placement Latest\2024 Capital Placement\Capital Placement\ProgramApi
+2024-05-15 05:21:44.130 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/swagger/index.html - -
+2024-05-15 05:21:44.756 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/swagger/index.html - - - 200 - text/html;charset=utf-8 627.3368ms
+2024-05-15 05:21:44.795 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/_framework/aspnetcore-browser-refresh.js - -
+2024-05-15 05:21:44.804 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/_vs/browserLink - -
+2024-05-15 05:21:44.809 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 14.2747ms
+2024-05-15 05:21:45.119 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 315.4474ms
+2024-05-15 05:21:47.492 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/swagger/v1/swagger.json - -
+2024-05-15 05:21:47.799 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 307.1517ms
+2024-05-15 05:21:56.628 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/api/programs - -
+2024-05-15 05:21:56.645 +01:00 [INF] Executing endpoint 'ProgramApi.Controllers.ProgramController.GetPrograms (ProgramApi)'
+2024-05-15 05:21:56.677 +01:00 [INF] Route matched with {action = "GetPrograms", controller = "Program"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPrograms() on controller ProgramApi.Controllers.ProgramController (ProgramApi).
+2024-05-15 05:22:49.250 +01:00 [WRN] Overriding address(es) 'https://localhost:7015, http://localhost:5192'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2024-05-15 05:22:49.357 +01:00 [INF] Now listening on: http://localhost:5192
+2024-05-15 05:22:49.359 +01:00 [INF] Now listening on: https://localhost:7015
+2024-05-15 05:22:49.363 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-15 05:22:49.365 +01:00 [INF] Hosting environment: Development
+2024-05-15 05:22:49.369 +01:00 [INF] Content root path: C:\Users\David Mboko\Desktop\Capital Placement Latest\2024 Capital Placement\Capital Placement\ProgramApi
+2024-05-15 05:22:50.219 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/swagger/index.html - -
+2024-05-15 05:22:50.814 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/swagger/index.html - - - 200 - text/html;charset=utf-8 599.7061ms
+2024-05-15 05:22:50.862 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/_framework/aspnetcore-browser-refresh.js - -
+2024-05-15 05:22:50.872 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 9.3836ms
+2024-05-15 05:22:50.953 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/_vs/browserLink - -
+2024-05-15 05:22:51.054 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 100.6320ms
+2024-05-15 05:22:55.470 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/swagger/v1/swagger.json - -
+2024-05-15 05:22:55.733 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 263.3809ms
+2024-05-15 05:23:04.498 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/api/programs - -
+2024-05-15 05:23:04.521 +01:00 [INF] Executing endpoint 'ProgramApi.Controllers.ProgramController.GetPrograms (ProgramApi)'
+2024-05-15 05:23:04.558 +01:00 [INF] Route matched with {action = "GetPrograms", controller = "Program"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPrograms() on controller ProgramApi.Controllers.ProgramController (ProgramApi).
+2024-05-15 05:23:42.332 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[ProgramApi.Helpers.Models.Programs, ProgramApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-15 05:24:01.840 +01:00 [INF] Executed action ProgramApi.Controllers.ProgramController.GetPrograms (ProgramApi) in 57273.195ms
+2024-05-15 05:24:01.846 +01:00 [INF] Executed endpoint 'ProgramApi.Controllers.ProgramController.GetPrograms (ProgramApi)'
+2024-05-15 05:24:01.848 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/api/programs - - - 200 - application/json;+charset=utf-8 57349.6824ms
+2024-05-15 05:36:53.765 +01:00 [WRN] Overriding address(es) 'https://localhost:7015, http://localhost:5192'. Binding to endpoints defined via IConfiguration and/or UseKestrel() instead.
+2024-05-15 05:36:53.928 +01:00 [INF] Now listening on: http://localhost:5192
+2024-05-15 05:36:53.931 +01:00 [INF] Now listening on: https://localhost:7015
+2024-05-15 05:36:53.934 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-05-15 05:36:53.936 +01:00 [INF] Hosting environment: Development
+2024-05-15 05:36:53.939 +01:00 [INF] Content root path: C:\Users\David Mboko\Desktop\Capital Placement Latest\2024 Capital Placement\Capital Placement\ProgramApi
+2024-05-15 05:36:54.835 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/swagger/index.html - -
+2024-05-15 05:36:55.285 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/swagger/index.html - - - 200 - text/html;charset=utf-8 453.7733ms
+2024-05-15 05:36:55.322 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/_framework/aspnetcore-browser-refresh.js - -
+2024-05-15 05:36:55.323 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/_vs/browserLink - -
+2024-05-15 05:36:55.360 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/_framework/aspnetcore-browser-refresh.js - - - 200 11990 application/javascript;+charset=utf-8 38.1339ms
+2024-05-15 05:36:55.535 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 212.1052ms
+2024-05-15 05:36:57.830 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/swagger/v1/swagger.json - -
+2024-05-15 05:36:58.149 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 318.7993ms
+2024-05-15 05:37:10.471 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7015/api/programs - -
+2024-05-15 05:37:10.483 +01:00 [INF] Executing endpoint 'ProgramApi.Controllers.ProgramController.GetPrograms (ProgramApi)'
+2024-05-15 05:37:10.515 +01:00 [INF] Route matched with {action = "GetPrograms", controller = "Program"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] GetPrograms() on controller ProgramApi.Controllers.ProgramController (ProgramApi).
+2024-05-15 05:37:15.185 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[ProgramApi.Helpers.Models.Programs, ProgramApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-15 05:37:15.214 +01:00 [INF] Executed action ProgramApi.Controllers.ProgramController.GetPrograms (ProgramApi) in 4689.4929ms
+2024-05-15 05:37:15.224 +01:00 [INF] Executed endpoint 'ProgramApi.Controllers.ProgramController.GetPrograms (ProgramApi)'
+2024-05-15 05:37:15.225 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7015/api/programs - - - 200 - application/json;+charset=utf-8 4754.1547ms
