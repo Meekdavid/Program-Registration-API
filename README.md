@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 ```markdown
+=======
+>>>>>>> 980b1e8fa48ba6838707c7bf7369415d141673a6
 # Program Registration API
 
-The **Program Registration API** is a .NET Core project designed to simplify program management and registration. It offers CRUD operations, integrates with Azure Cosmos DB, and provides flexibility for application templates and workflow stages. Built with .NET 6.0, it ensures efficiency and scalability.
+The **Program Registration API** is a .NET Core project designed to simplify program management and registration. It offers CRUD operations, integrates with Azure Cosmos DB, and provides flexibility for application templates and workflow stages. Built with .NET 8.0, it ensures efficiency and scalability.
 
 ### Key Features
 
@@ -347,4 +350,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ### Resources
 - [Click to View](https://dotnet.microsoft.com/en-us/learn)
 </details>
-```
