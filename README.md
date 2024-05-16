@@ -1,6 +1,3 @@
-Certainly! Here's the entire content formatted into a single block for easy copying into your `README.md` file:
-
-```markdown
 # Program Registration API
 
 The **Program Registration API** is a .NET Core project designed to simplify program management and registration. It offers CRUD operations, integrates with Azure Cosmos DB, and provides flexibility for application templates and workflow stages. Built with .NET 6.0, it ensures efficiency and scalability.
@@ -349,4 +346,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ### Resources
 - [Click to View](https://dotnet.microsoft.com/en-us/learn)
 </details>
-```
